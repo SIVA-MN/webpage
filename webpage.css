@@ -1,0 +1,123 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+nav{
+    background-color: gray;
+     padding: 10px;
+    height: 50%;
+  
+  }
+  .tit{
+    color: orange;
+  }
+  li{
+    padding: 0.4%;
+  }
+  ul{
+    padding: 0.4%;
+  }
+  nav li,ul,h3{
+    display: inline;
+    
+  }
+  
+  ul{
+    padding-left: 64%;
+    
+  }
+  .space{
+    background-color: black;
+    text-align: center;
+   
+    padding: 5%;
+  }
+  .cm{
+    color: white;
+  }
+  .cmu{
+    background-color: gray;
+    text-align: center;
+    padding: 7%;
+  }
+  .cmu-anna{
+    background-color: black;
+    text-align: center;
+    padding: 4%;
+    color: white;
+  }
+  h4{
+    color: white;
+  }
+  h5{
+    color: white;
+  }
+  center{
+    padding-left: 39%;
+    padding-right: 39%;
+  }
+  hr{
+    color: white;
+  }
+  .cricle{
+    width: 20px;
+    height: 10px;
+    border-radius: 100px;
+    background-color: red;
+  }
+  .one{
+    display: inline-block;
+    border:1px solid white;
+    width: 20%;
+    background-color: white;
+    color: black;
+    border-radius: 10px;
+  }
+  .two{
+    display: inline-block;
+    margin-left: 10%;
+   width: 20%;
+    background-color: white;
+    color: black;
+    border-radius: 10px;
+  }
+  .three{
+    display: inline-block;
+    margin-left: 10%;
+    border:1px solid white;
+    width: 20%;
+    background-color: white;
+    color: black;
+    border-radius: 10px;
+  }
+  .item{
+    background-color: black;
+    text-align: center;
+    color: white;
+  }
+  #Skills-container{
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    accent-color:red;
+  }
+  .amm{
+    margin-left: 50%;
+  }
+  button{
+  
+    padding-left: 1%;
+    padding-right: 6%;
+  }
+  .qw{
+    
+    margin-left:38%;
+  }
+  .qt{
+    
+    margin-left:38%;
+  }
+  .qq{
+    
+    margin-left:38%;
+  }
